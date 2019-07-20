@@ -1,0 +1,47 @@
+Makefile
+*.swp
+*.cpp.swp
+*.csv
+bin/
+bin/test.csv
+src/Makefile
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+src/cmake_install.cmake
+src/CMakeFiles
+src/CMakeCache.txt
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
